@@ -1,7 +1,7 @@
  Olá!! Eu sou o Gabriel Campos, estudante de programação e tecnologia👋
 
 - 💻 Estudando Html, Css e JavaScript
-- 😃Buscando uma oportunida na area
+- 😃 Buscando uma oportunida na area
 - 📫 Contate-me no e-mail: Gabriel12cbarbosa@gmail.com
 - 😄 Pronomes: ele/dele
 <div align="center">
